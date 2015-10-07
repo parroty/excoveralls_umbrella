@@ -2,6 +2,7 @@ ExcoverallsUmbrella [![Build Status](https://secure.travis-ci.org/parroty/excove
 ============
 
 Sample project for excoveralls on umbrella elixir projects.
+  - https://github.com/parroty/excoveralls
 
 ## Configurations
 
