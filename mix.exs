@@ -10,6 +10,6 @@ defmodule ExcoverallsUmbrella.Mixfile do
   end
 
   defp deps do
-    [{:excoveralls, git: "https://github.com/parroty/excoveralls.git", branch: "umbrella"}]
+    [{:excoveralls, "~> 0.4"}]
   end
 end

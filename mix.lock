@@ -1,4 +1,4 @@
-%{"excoveralls": {:git, "https://github.com/parroty/excoveralls.git", "839c20d75e7f125783770cf073601cb74104f118", [branch: "umbrella"]},
+%{"excoveralls": {:hex, :excoveralls, "0.4.0"},
   "exjsx": {:hex, :exjsx, "3.2.0"},
   "hackney": {:hex, :hackney, "1.3.2"},
   "idna": {:hex, :idna, "1.0.2"},
