@@ -10,6 +10,6 @@ defmodule ExcoverallsUmbrella.Mixfile do
   end
 
   defp deps do
-    [{:excoveralls, "~> 0.4"}]
+    [{:excoveralls, "~> 0.5"}]
   end
 end
