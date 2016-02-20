@@ -27,8 +27,8 @@ Finished in 0.00 seconds
 Randomized with seed 454824
 ----------------
 COV    FILE                                        LINES RELEVANT   MISSED
-100.0% subapp0/lib/subapp0.ex                          9        2        0
- 50.0% subapp1/lib/subapp1.ex                          9        2        1
+100.0% apps/subapp0/lib/subapp0.ex                     9        2        0
+ 50.0% apps/subapp1/lib/subapp1.ex                     9        2        1
 [TOTAL]  75.0%
 ----------------
 ```
