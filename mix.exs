@@ -5,11 +5,11 @@ defmodule ExcoverallsUmbrella.Mixfile do
     [apps_path: "apps",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
-     deps: deps,
+     deps: deps(),
      test_coverage: [tool: ExCoveralls]]
   end
 
   defp deps do
-    [{:excoveralls, "~> 0.5"}]
+    [{:excoveralls, "~> 0.6"}]
   end
 end
